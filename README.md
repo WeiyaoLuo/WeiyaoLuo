@@ -2,7 +2,7 @@
 - 👀 I’m interested in NLP/Multimodal.
 - 🌱 I’m currently learning at Peking University.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me wyluo@stu.pku.edu.cn
+- 📫 How to reach me wyluo@stu.pku.edu.cn or luoweiyao993@gmail.com
 
 <!---
 L-WWEEII/L-WWEEII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
