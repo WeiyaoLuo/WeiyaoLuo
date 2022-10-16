@@ -13,7 +13,9 @@ You can click the Preview link to take a look at your changes.
 ### Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RunxinXu" alt="RunxinXu" /> </p>
 
+<!---
 This is Runxin Xu [[google scholar]](https://scholar.google.com/). 
+--->
 
 Currently I am a first-year Master's student at Peking University under the supervision of Prof. [Zhifang Sui](https://icl.pku.edu.cn/cy/szf/index.htm) [[google scholar]](https://scholar.google.com/citations?user=).
 
