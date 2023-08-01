@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+For more details, please visit [Aboutme](https://weiyaoluo.github.io/aboutme/).
 ### Profile Summary
 
 ![summary](https://github-readme-stats.vercel.app/api?username=WeiyaoLuo&show_icons=true&theme=radical)
