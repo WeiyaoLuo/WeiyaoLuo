@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 This is Runxin Xu [[google scholar]](https://scholar.google.com/). 
 --->
 
-Currently I am a first-year Master's student at Peking University under the supervision of Prof. [Zhifang Sui](https://icl.pku.edu.cn/cy/szf/index.htm) [[google scholar]](https://scholar.google.com/citations?user=).
+Currently I am a second-year Master's student at Peking University under the supervision of Prof. [Zhifang Sui](https://icl.pku.edu.cn/cy/szf/index.htm) [[google scholar]](https://scholar.google.com/citations?user=).
 
 My research interests mainly lie in natural language processing, especially 1) NLP , and 2) MultiModal.
 
